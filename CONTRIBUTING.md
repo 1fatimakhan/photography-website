@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-We welcome contributions to our nature photography website and appreciate your interest in making this platform even better. By contributing, you agree to follow these guidelines and maintain a positive and respectful environment for all users.
+We welcome contributions to our Nature Photography Website and appreciate your interest in making this platform even better. By contributing, you agree to follow these guidelines and maintain a positive and respectful environment for all users.
 
 ## Types of Contributions
 
